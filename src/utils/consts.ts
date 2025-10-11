@@ -147,7 +147,7 @@ export const projects: ProjectItemProps[] = [
   {
     title: "Ender: Interactive Two-Column Geometric Proofs",
     color: "pink",
-    year: "2020",
+    year: "2024",
     topic: "Interactive Visualization, STEM Education",
     thumb: "/thumbnails/ender.png",
     link: "/enderProject",
