@@ -25,6 +25,9 @@ _Sample Coursework_: Data Visualization, Advanced Typography, Interaction Design
 
 ## Publications
 
+**[Augmented Proof: Examining Structures to Support Geometric Proof Comprehension](https://escholarship.org/uc/item/5bv6z191)**.  
+**Hwei-Shin Harriman**, Yuchen Jin, Peter Cheng, Dominik Moritz, Joshua Sunshine. _CogSci'25, Poster track_.
+
 **[Codifying Visual Representations](/pubs/diagrams-24.pdf)**.  
 Wode Ni*, Sam Estep*, **Hwei-Shin Harriman\***, Jiří Minarčík, Joshua Sunshine. _DIAGRAMS'24, Poster track_.  
 ![](/cv-svgs/poster.svg) [Poster](/pubs/diagrams24-poster.pdf)
@@ -51,7 +54,7 @@ Wode Ni, Sam Estep, **Hwei-Shin Harriman**, Kenneth R. Koedinger, Joshua Sunshin
 
 _Graduate Researcher; member of [Penrose](https://penrose.cs.cmu.edu/) group and the [Data Interaction Group](https://dig.cmu.edu)_  
 _Advisors_: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/), [Dominik Moritz](https://www.domoritz.de/)  
-Using interactivity to make high-school geometric proofs easier to understand and building tools to make interactive diagrams.
+Building interactive visual tools to provide automatic and intelligent support for student learning of high-school geometric proof.
 
 #### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `Jan, 2022 - August, 2023`
 
@@ -84,7 +87,7 @@ Ported a core feature from Tableau's editor, [‘Go To Sheet’](https://help.ta
 
 #### **[Ender](https://www.hwei-shin.com/#/enderProject)** `2024-present`
 
-Building interactive visualizations of two-column, high-school geometry proofs using Typescript/React as part of an ongoing research project to investigate whether specific visual cues can structure student focus and help to manage cognitive load.
+Building interactive visualizations of two-column, high-school geometry proofs using Typescript/React. Ender annotates geometric proof to highlight key information at each step and is designed to facilitate proof comprehension.
 
 #### **[Data Analysis of Air Quality in Boston](https://www.hwei-shin.com/#/airpartners)** `2021`
 
@@ -136,7 +139,7 @@ ACM ASSETS '21: International ACM SIGACCESS Conference on Computers and Accessib
 
 ## Mentoring
 
-#### Griffin Teller (CMU) `Fall 2024`
+#### Griffin Teller (CMU) `2024-2025`
 
 #### Yuchen Jin (University of Wisconsin - Madison)`Summer 2024`
 
@@ -168,7 +171,7 @@ _Awarded to one first-year PhD student in Carnegie Mellon's School of Computer S
 
 #### CMU S3D Software Engineering PhD Admissions Committee `2025`
 
-#### CMU REUSE Admissions Committee `2024`
+#### CMU REUSE Admissions Committee `2024, 2025`
 
 #### ACM SIGGRAPH Team Leader, Student Volunteer Program `2018, 2019`
 
