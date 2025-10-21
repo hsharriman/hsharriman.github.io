@@ -1,6 +1,6 @@
 # Hwei-Shin Harriman
 
-![](/cv-svgs/home.svg) [hwei-shin.com](https://www.hwei-shin.com) || ![](/cv-svgs/mail.svg) [harriman@cmu.edu](mailto:harriman@cmu.edu) || ![](/cv-svgs/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/hsharriman)
+![](/cv-svgs/home.svg) [hwei-shin.com](https://hwei-shin.com) || ![](/cv-svgs/mail.svg) [harriman@cmu.edu](mailto:harriman@cmu.edu) || ![](/cv-svgs/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/hsharriman)
 
 ![](/cv-svgs/scholar.svg) [Google Scholar](https://scholar.google.com/citations?hl=en&user=0OxDklkAAAAJ&view_op=list_works&authuser=1&gmla=ALUCkoWrPxvAN073sVI2qCz6MNsdkr9JzrMSipPFnoO1B1ej6U-MWe0EBnziU--9y45scI-tOKsv-Xrom0Xd7n2D) || ![](/cv-svgs/scholar.svg) [ORCID](https://orcid.org/0000-0002-3746-4808) || ![](/cv-svgs/github.svg) [@hsharriman](https://github.com/hsharriman)
 
