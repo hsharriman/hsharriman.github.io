@@ -10,7 +10,7 @@
 
 #### **Ph.D. Student in Software Engineering, Carnegie Mellon University** `2023 – present`
 
-_Advisors_: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/), [Dominik Moritz](https://www.domoritz.de/)
+_Advisors_: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/), [Dominik Moritz](https://www.domoritz.de/); _Anticipated Graduation_: May, 2028
 
 #### **B.S. in Software Engineering, Olin College of Engineering** `2017 – 2021`
 
@@ -51,54 +51,54 @@ Wode Ni, Sam Estep, **Hwei-Shin Harriman**, Kenneth R. Koedinger, Joshua Sunshin
 
 #### **[Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh, PA** `Aug, 2023 - present`
 
-_Graduate Researcher; member of [Penrose](https://penrose.cs.cmu.edu/) group and the [Data Interaction Group](https://dig.cmu.edu)_  
+_Student Researcher; member of [Penrose](https://penrose.cs.cmu.edu/) group and the [Data Interaction Group](https://dig.cmu.edu)_  
 _Advisors_: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/), [Dominik Moritz](https://www.domoritz.de/)  
 Building interactive visual tools to provide automatic and intelligent support for student learning of high-school geometric proof.
 
 #### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `Jan, 2022 - August, 2023`
 
 _Full Stack Engineer; Collections, Teapot teams_  
-Built, improved UI for various customer-facing features within Tableau and Salesforce. Wrote APIs for use by Tableau and external developers.
+Built, improved UI for various customer-facing features within Tableau and Salesforce. Wrote APIs for use by Tableau and external developers. _(Typescript, React, Java, C++)_
 
-#### **[Carnegie Mellon University](https://cmu.edu), Pittsburgh, PA** `Summer, 2021`
+#### **[Carnegie Mellon University](https://cmu.edu), Pittsburgh, PA** `May, 2021 - August, 2021`
 
 _Research Intern; worked on [Penrose](https://penrose.cs.cmu.edu/)_  
-Contributed to open source research project, Penrose (~8k Github stars), to generate diagrammatic high school geometry problems from a text prompt using program mutation.
+Contributed to open source research project, Penrose (~8k Github stars), to generate diagrammatic high school geometry problems from a text prompt using program mutation. _(Typescript, React)_
 
-#### **[Tesla Motors](https://www.tesla.com/), Palo Alto, CA** `Fall, 2020`
+#### **[Tesla Motors](https://www.tesla.com/), Palo Alto, CA** `August, 2020 - December, 2020`
 
 _Vehicle Software Engineering Intern; Engfleet Tools Team_  
-Created robust data collection, cleaning, storage, analysis, and visualization pipeline that processes 2TB raw data/day from the R&D Tesla vehicle fleet. Built an internal dashboard to visualize the CAN data. The dashboard was used to help firmware leadership identify CAN bus message trends and regressions.
+Created robust data collection, cleaning, storage, analysis, and visualization pipeline that processes 2TB raw data/day from the R&D Tesla vehicle fleet. Built an internal dashboard to visualize the CAN data. The dashboard was used to help firmware leadership identify CAN bus message trends and regressions. _(Golang, Python, Airflow, AWS, Docker)_
 
-#### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `Summer, 2020`
+#### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `May, 2020 - August, 2020`
 
 _Fullstack Software Engineering Intern; Publishing Team_  
-Built and tested UI for Tableau Online's AutoSave feature. Shipped in 2022.
+Built and tested UI for Tableau Online's AutoSave feature. Shipped in 2022. _(Typescript, React, Java)_
 
-#### **[Tableau](https://www.tableau.com/), Seattle, WA** `Summer, 2019`
+#### **[Tableau](https://www.tableau.com/), Seattle, WA** `May, 2019 - August, 2019`
 
 _Fullstack Software Engineering Intern; Dashapps Team_  
-Ported a core feature from Tableau's editor, [‘Go To Sheet’](https://help.tableau.com/current/pro/desktop/en-us/actions_dashboards.htm) action, from Tableau Desktop to Tableau’s browser-based editor. Shipped in 2020.
+Ported a core feature, the [‘Go To Sheet’](https://help.tableau.com/current/pro/desktop/en-us/actions_dashboards.htm) action, from Tableau Desktop to Tableau’s browser-based editor. Shipped in 2020. _(Typescript, React, C++, C#)_
 
 ---
 
 ## Project Experience
 
-#### **[Ender](https://www.hwei-shin.com/#/enderProject)** `2024-present`
+#### **[Ender](https://www.hwei-shin.com/#/enderProject)** `2024 - present`
 
-Building interactive visualizations of two-column, high-school geometry proofs using Typescript/React. Ender annotates geometric proof to highlight key information at each step and is designed to facilitate proof comprehension.
+Developing interactive visualizations of two-column, high-school geometry proofs. Ender annotates geometric proof to highlight key information at each step and is designed to facilitate proof comprehension. _(Typescript, React, Tailwind)_
 
 #### **[Data Analysis of Air Quality in Boston](https://www.hwei-shin.com/#/airpartners)** `2021`
 
-Analyzed the concentrations of dangerous ultrafine particles (UFPs) near roadways and the Logan International Airport using Python, using raw data pulled from special UFP sensors on an hourly basis. The data was used by an air quality app that notified users of the current risk of exposure to UFPs in their area. The results from these tools have been used to raise awareness and inform policy enactments championing cleaner air in underprivileged communities.
+Developed a pipeline that processed hourly sensor data and analyzed the concentration of dangerous ultrafine particles (UFPs) near roadways and the Logan International Airport. The data was used in an app that notified users of the current risk of exposure to UFPs in their area. It was also used to inform policy enactments championing cleaner air for local communities. _(Python, Airflow)_
 
 #### **[Swiss Poster Generator](https://www.hwei-shin.com/#/swiss)** `2020`
 
-Built an online generator using HTML/CSS/JS that automatically applies design rules to generate custom posters in the Swiss Modernism style.
+Built an online generator that automatically applies design rules to generate custom posters in the Swiss Modernism style. _(HTML, CSS, JS)_
 
 #### **Stepping with Kinect** `2019`
 
-Built an interactive experience MVP using Unity and a Kinect that detected when a player correctly followed moves in the [Stepping](https://youtu.be/8xQYr6P_qBc?si=Ie6VgH2MDcs9z5h0) dance style. Facial expressions are an important part of stepping, so the game also visually reflected the identified sentiment of the dancer. Project was funded by Microsoft and designed to be installed at Microsoft storefronts.
+Built an interactive experience MVP using a Kinect that detected when a player correctly followed moves in the [Stepping](https://youtu.be/8xQYr6P_qBc?si=Ie6VgH2MDcs9z5h0) dance style. Facial expressions are an important part of stepping, so the game also visually reflected the identified sentiment of the dancer. Project was funded by Microsoft and designed to be installed at Microsoft storefronts. _(C#, Unity)_
 
 ---
 
@@ -124,15 +124,13 @@ ACM ASSETS '21: International ACM SIGACCESS Conference on Computers and Accessib
 
 ## Teaching
 
-#### Writing Tutor, Olin College of Engineering `2018-2021`
+#### **Carnegie Mellon University** `Spring 2026`
 
-#### Teaching Assistant, Machine Learning, Olin College of Engineering `2021`
+Teaching Assistant: 17-313 Foundations of Software Engineering
 
-#### Teaching Assistant, History of Technology, Olin College of Engineering `2019`
+#### **Olin College of Engineering** `2018-2021`
 
-#### Teaching Assistant, Software Design, Olin College of Engineering `2019`
-
-#### Teaching Assistant, Introduction to Sensors, Instrumentation, and Measurement, Olin College of Engineering `2018`
+Teaching Assistant: Machine Learning; History of Technology; Software Design; Intro to Sensors, Instrumentation, and Measurement; Writing
 
 ---
 
@@ -181,7 +179,7 @@ _Awarded to one first-year PhD student in Carnegie Mellon's School of Computer S
 ## Skills
 
 **Programming Languages:** Typescript / Javascript (Advanced), Python (Advanced), Golang (Intermediate), Java (Intermediate), C# (Intermediate), R (Basic), Presto / SQL (Basic), C / C++ (Basic), Swift (Basic)  
-**Toolkits, Frameworks, Software:** React, Redux, Tailwind, Airflow, Docker, AWS, Git, Perforce, Tableau, LaTeX, Photoshop, Illustrator, Figma, InDesign, three.js, WebGL, Unity, XCode, Apple ARKit, Matlab, Linux, Windows, MacOS  
+**Toolkits, Frameworks, Software:** React, Redux, Tailwind, Airflow, Docker, AWS, Node.js, Git, Perforce, Tableau, LaTeX, Photoshop, Illustrator, Figma, Unity, XCode, Apple ARKit, Matlab, Linux, Windows, MacOS  
 **Industry:** Agile practices, Jira, TFS, Confluence, code reviews, version control  
 **Natural Languages:** English (Native), Chinese (Basic)
 
