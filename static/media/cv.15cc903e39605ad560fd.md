@@ -58,27 +58,27 @@ Building interactive visual tools to provide automatic and intelligent support f
 #### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `Jan, 2022 - August, 2023`
 
 _Full Stack Engineer; Collections, Teapot teams_  
-Built, improved UI for various customer-facing features within Tableau and Salesforce. Wrote APIs for use by Tableau and external developers. _(Typescript, React, Java, C++)_
+Built, improved UI for various customer-facing features within Tableau and Salesforce. Wrote APIs for use by Tableau and external developers.
 
 #### **[Carnegie Mellon University](https://cmu.edu), Pittsburgh, PA** `May, 2021 - August, 2021`
 
 _Research Intern; worked on [Penrose](https://penrose.cs.cmu.edu/)_  
-Contributed to open source research project, Penrose (~8k Github stars), to generate diagrammatic high school geometry problems from a text prompt using program mutation. _(Typescript, React)_
+Contributed to open source research project, Penrose (~8k Github stars), to generate diagrammatic high school geometry problems from a text prompt using program mutation.
 
 #### **[Tesla Motors](https://www.tesla.com/), Palo Alto, CA** `August, 2020 - December, 2020`
 
 _Vehicle Software Engineering Intern; Engfleet Tools Team_  
-Created robust data collection, cleaning, storage, analysis, and visualization pipeline that processes 2TB raw data/day from the R&D Tesla vehicle fleet. Built an internal dashboard to visualize the CAN data. The dashboard was used to help firmware leadership identify CAN bus message trends and regressions. _(Golang, Python, Airflow, AWS, Docker)_
+Created robust data collection, cleaning, storage, analysis, and visualization pipeline that processes 2TB raw data/day from the R&D Tesla vehicle fleet. Built an internal dashboard to visualize the CAN data. The dashboard was used to help firmware leadership identify CAN bus message trends and regressions.
 
 #### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `May, 2020 - August, 2020`
 
 _Fullstack Software Engineering Intern; Publishing Team_  
-Built and tested UI for Tableau Online's AutoSave feature. Shipped in 2022. _(Typescript, React, Java)_
+Built and tested UI for Tableau Online's AutoSave feature. Shipped in 2022.
 
 #### **[Tableau](https://www.tableau.com/), Seattle, WA** `May, 2019 - August, 2019`
 
 _Fullstack Software Engineering Intern; Dashapps Team_  
-Ported a core feature, the [‘Go To Sheet’](https://help.tableau.com/current/pro/desktop/en-us/actions_dashboards.htm) action, from Tableau Desktop to Tableau’s browser-based editor. Shipped in 2020. _(Typescript, React, C++, C#)_
+Ported a core feature, the [‘Go To Sheet’](https://help.tableau.com/current/pro/desktop/en-us/actions_dashboards.htm) action, from Tableau Desktop to Tableau’s browser-based editor. Shipped in 2020.
 
 ---
 
@@ -86,19 +86,19 @@ Ported a core feature, the [‘Go To Sheet’](https://help.tableau.com/current/
 
 #### **[Ender](https://www.hwei-shin.com/#/enderProject)** `2024 - present`
 
-Developing interactive visualizations of two-column, high-school geometry proofs. Ender annotates geometric proof to highlight key information at each step and is designed to facilitate proof comprehension. _(Typescript, React, Tailwind)_
+Developing interactive visualizations of two-column, high-school geometry proofs. Ender annotates geometric proof to highlight key information at each step and is designed to facilitate proof comprehension.
 
 #### **[Data Analysis of Air Quality in Boston](https://www.hwei-shin.com/#/airpartners)** `2021`
 
-Developed a pipeline that processed hourly sensor data and analyzed the concentration of dangerous ultrafine particles (UFPs) near roadways and the Logan International Airport. The data was used in an app that notified users of the current risk of exposure to UFPs in their area. It was also used to inform policy enactments championing cleaner air for local communities. _(Python, Airflow)_
+Developed a pipeline that processed hourly sensor data and analyzed the concentration of dangerous ultrafine particles (UFPs) near roadways and the Logan International Airport. The data was used in an app that notified users of the current risk of exposure to UFPs in their area. It was also used to inform policy enactments championing cleaner air for local communities.
 
 #### **[Swiss Poster Generator](https://www.hwei-shin.com/#/swiss)** `2020`
 
-Built an online generator that automatically applies design rules to generate custom posters in the Swiss Modernism style. _(HTML, CSS, JS)_
+Built an online generator that automatically applies design rules to generate custom posters in the Swiss Modernism style.
 
 #### **Stepping with Kinect** `2019`
 
-Built an interactive experience MVP using a Kinect that detected when a player correctly followed moves in the [Stepping](https://youtu.be/8xQYr6P_qBc?si=Ie6VgH2MDcs9z5h0) dance style. Facial expressions are an important part of stepping, so the game also visually reflected the identified sentiment of the dancer. Project was funded by Microsoft and designed to be installed at Microsoft storefronts. _(C#, Unity)_
+Built an interactive experience MVP using a Kinect that detected when a player correctly followed moves in the [Stepping](https://youtu.be/8xQYr6P_qBc?si=Ie6VgH2MDcs9z5h0) dance style. Facial expressions are an important part of stepping, so the game also visually reflected the identified sentiment of the dancer. Project was funded by Microsoft and designed to be installed at Microsoft storefronts.
 
 ---
 
