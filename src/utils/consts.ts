@@ -32,6 +32,35 @@ export const publications: PublicationProps[] = [
   //   venue: "CHI'25",
   // },
   {
+    id: "/cogsci-ender",
+    title:
+      "Augmented Proof: Examining Structures to Support Geometric Proof Comprehension",
+    authors: [
+      "Hwei-Shin Harriman",
+      "Yuchen Jin",
+      "Peter Cheng",
+      "Dominik Moritz",
+      "Joshua Sunshine",
+    ],
+    venue: "CogSci'25, Poster",
+    links: {
+      pdf: "/pubs/cogsci25.pdf",
+    },
+    abstract:
+      "To understand even a modest geometric proof, students must process an interwoven combination of symbolic, diagrammatic, geometric, and logical information. This amount of information density presents a daunting management task that students are known to perform poorly on. To address this challenge, we propose a two-column proof interface that structures the information management task according to diagram configuration schemas. We evaluated our design by comparing secondary school students' performance on proof comprehension tasks with DCS augmentation to using a typical two-column proof. Students using the DCS-augmented interface demonstrated improved overall reasoning and accuracy in geometric proof tasks compared to the traditional two-column format. They were also significantly better at identifying and correcting mistakes in proofs. These results suggest that managing complex information by integrating it in a coherent schema\u2014like DCS\u2014can support student understanding of proof.",
+    keywords: [
+      "Geometric Proof",
+      "Interactive Diagrams",
+      "Human-centered computing",
+    ],
+    teaser: {
+      img: "/pubs/cogsci25-teaser.png",
+      caption:
+        "Top: Screenshot of the DCS augmented interface displaying the fourth step of a proof. Students use the up and down arrow keys to navigate through the proof and see changes in state, definitions, and dependencies. This proof mistakenly applies the Side-Angle-Side (SAS) Triangle Congruence theorem without enough prerequisite information. The red bolding indicates that the interior angles necessary for SAS are not known to be congruent by step 4. Adding a reflexive step BD = BD would correct this proof. Bottom: Screenshot of the control interface of the same incorrect proof, providing all the information necessary to comprehend the proof simultaneously. It is akin to the proof format that secondary school students practice.",
+    },
+    thumb: "/thumbnails/cogsci-ender.png",
+  },
+  {
     id: "/diagrams-penrose",
     title: "Codifying Visual Representations",
     authors: [

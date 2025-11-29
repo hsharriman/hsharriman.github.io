@@ -14,8 +14,7 @@ _Advisors_: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/), [Dominik Morit
 
 #### **B.S. in Software Engineering, Olin College of Engineering** `2017 – 2021`
 
-_Activities_: Researcher at OcCAM Labs, Firmware Engineer for Olin Electric Motorsports, Student Researcher at Return Design Lab  
-_Sample Coursework_: Machine Learning, Computer Graphics (independent study), User-Oriented Collaborative Design, Software Systems, Data Structures and Algorithms, Affordable Design and Entrepreneurship.
+_Activities_: Concentration in Design, Researcher at OcCAM Labs, Firmware Engineer for Olin Electric Motorsports, Student Researcher at Return Design Lab
 
 #### **Visiting Student for Communications Design, Parsons School of Design** `2020`
 
@@ -64,7 +63,7 @@ Built, improved UI for various customer-facing features within Tableau and Sales
 #### **[Carnegie Mellon University](https://cmu.edu), Pittsburgh, PA** `Summer, 2021`
 
 _Research Intern; worked on [Penrose](https://penrose.cs.cmu.edu/)_  
-Contributed to open source research project, Penrose, to generate diagrammatic high school geometry problems from a text prompt using program mutation.
+Contributed to open source research project, Penrose (~8k Github stars), to generate diagrammatic high school geometry problems from a text prompt using program mutation.
 
 #### **[Tesla Motors](https://www.tesla.com/), Palo Alto, CA** `Fall, 2020`
 
@@ -155,7 +154,7 @@ _Awarded to one first-year PhD student in Carnegie Mellon's School of Computer S
 
 #### NSF Travel Grant to DIAGRAMS Conference `2024`
 
-#### ACM L@S Best Paper Honorable Mention `2024`
+#### ACM Learning at Scale Best Paper Honorable Mention `2024`
 
 #### ACM Student Research Competition, Grand Finalist `2021`
 
@@ -184,13 +183,13 @@ _Awarded to one first-year PhD student in Carnegie Mellon's School of Computer S
 **Programming Languages:** Typescript / Javascript (Advanced), Python (Advanced), Golang (Intermediate), Java (Intermediate), C# (Intermediate), R (Basic), Presto / SQL (Basic), C / C++ (Basic), Swift (Basic)  
 **Toolkits, Frameworks, Software:** React, Redux, Tailwind, Airflow, Docker, AWS, Git, Perforce, Tableau, LaTeX, Photoshop, Illustrator, Figma, InDesign, three.js, WebGL, Unity, XCode, Apple ARKit, Matlab, Linux, Windows, MacOS  
 **Industry:** Agile practices, Jira, TFS, Confluence, code reviews, version control  
-**Natural Languages:** English (Native), Chinese (Intermediate)
+**Natural Languages:** English (Native), Chinese (Basic)
 
 ---
 
 ## Other Interests
 
-- Professional ballerina
+- Retired professional ballerina
 - Freelance illustrator and designer
 - Peet's Coffee Certified Barista
-- Collegiate Overwatch player for Carnegie Mellon University
+- Club manager and player for Carnegie Mellon University's Collegiate Overwatch team

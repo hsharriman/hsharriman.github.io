@@ -12,6 +12,7 @@ const imgs = [
   "line4.png",
   "line7.png",
   "line5.png",
+  "sunroom.png",
   "line6.png",
   "12.png",
   "17.png",
@@ -20,6 +21,7 @@ const imgs = [
   "ow2.png",
   "ow3.png",
   "ow4.png",
+  "arcanestudy.png",
   "arcane1.png",
 ];
 export class Illustrations extends React.Component {
