@@ -24,6 +24,15 @@ _Sample Coursework_: Data Visualization, Advanced Typography, Interaction Design
 
 ## Publications
 
+**[Ghost: A Formal DSL for Secondary School Geometric Proof _(under review)_]()**.  
+**Hwei-Shin Harriman**, Quyen Tran, Sam Estep, Sally Lee, Dominik Moritz, Joshua Sunshine. _PLDI'27_.
+
+**[Teaching Geometric Proof with Tech: Pitfalls and Possibilities _(accepted, preprint available)_](https://arxiv.org/abs/2608.25117)**.  
+**Hwei-Shin Harriman**, Wode Ni, Yuchen Jin, Dominik Moritz, Joshua Sunshine. _International Journal of Human Computer Interaction'26_.
+
+**[Ender: Visual Scaffolding for Geometric Proof Comprehension](/pubs/vlhcc-26.pdf)**.  
+**Hwei-Shin Harriman**, Yuchen Jin, Dominik Moritz, Joshua Sunshine. _VL/HCC'26_.
+
 **[Augmented Proof: Examining Structures to Support Geometric Proof Comprehension](https://escholarship.org/uc/item/5bv6z191)**.  
 **Hwei-Shin Harriman**, Yuchen Jin, Peter Cheng, Dominik Moritz, Joshua Sunshine. _CogSci'25, Poster track_.
 
@@ -32,7 +41,7 @@ Wode Ni*, Sam Estep*, **Hwei-Shin Harriman\***, Jiří Minarčík, Joshua Sunshi
 ![](/cv-svgs/poster.svg) [Poster](/pubs/diagrams24-poster.pdf)
 
 **[Edgeworth: Efficient and Scalable Authoring of Visual Thinking Activities](/pubs/las24-edgeworth.pdf)**.  
-Wode Ni, Sam Estep, **Hwei-Shin Harriman**, Kenneth R. Koedinger, Joshua Sunshine. _LAS'24_.  
+Wode Ni, Sam Estep, **Hwei-Shin Harriman**, Kenneth R. Koedinger, Joshua Sunshine. _L@S'24_.  
 ![](/cv-svgs/ribbon.svg) Best Paper Honorable Mention
 
 **[Edgeworth: Authoring Diagrammatic Math Problems using Program Mutation](/pubs/src-edgeworth.pdf)**.  
@@ -51,9 +60,9 @@ Wode Ni, Sam Estep, **Hwei-Shin Harriman**, Kenneth R. Koedinger, Joshua Sunshin
 
 #### **[Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh, PA** `Aug, 2023 - present`
 
-_Student Researcher; member of [Penrose](https://penrose.cs.cmu.edu/) group and the [Data Interaction Group](https://dig.cmu.edu)_  
+_Student Researcher; member of [Penrose](https://penrose.cs.cmu.edu/) group and [Data Interaction Group](https://dig.cmu.edu)_  
 _Advisors_: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/), [Dominik Moritz](https://www.domoritz.de/)  
-Building interactive visual tools to provide automatic and intelligent support for student learning of high-school geometric proof.
+Building interactive visual tools to provide automatic and intelligent support for student learning of high school geometric proof.
 
 #### **[Tableau](https://www.tableau.com/), Palo Alto, CA** `Jan, 2022 - August, 2023`
 
@@ -104,6 +113,10 @@ Built an interactive experience MVP using a Kinect that detected when a player c
 
 ## Talks
 
+#### **Ender: Visual Scaffolding for Geometric Proof Comprehension** `October, 2026`
+
+VL/HCC '26: IEEE Symposium on Visual Languages and Human-Centric Computing, `Paderborn`
+
 #### **Ender: Visual Interactive Augmentation of High School-Level Geometric Proof** `October, 2024`
 
 DIAGRAMS '24: International Conference on the Theory and Application of Diagrams, `Münster`
@@ -135,6 +148,10 @@ Teaching Assistant: Machine Learning; History of Technology; Software Design; In
 ---
 
 ## Mentoring
+
+#### Quyen Tran (DePauw University) `2026-present`
+
+#### Sally Lee (Franklin W. Olin College of Engineering) `2026-present`
 
 #### Griffin Teller (CMU) `2024-2025`
 

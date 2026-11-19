@@ -18,9 +18,9 @@ export const defaultIconTextCss =
 // ----- PUBLICATIONS -----
 export const publications: PublicationProps[] = [
   {
-    id: "/chi-geo",
+    id: "/ijhci-geo",
     title:
-      "(Under Review) Teaching Geometric Proof with Tech: Pitfalls and Possibilities",
+      "(Accepted, Preprint) Teaching Geometric Proof with Tech: Pitfalls and Possibilities",
     authors: [
       "Hwei-Shin Harriman",
       "Wode Ni",
@@ -28,38 +28,74 @@ export const publications: PublicationProps[] = [
       "Dominik Moritz",
       "Joshua Sunshine",
     ],
-    links: {},
-    venue: "TOCHI'26",
+    links: {
+      pdf: "https://arxiv.org/abs/2608.25117",
+    },
+    venue: "International Journal of Human Computer Interaction, 2026",
+    abstract:
+      "Geometric proof is a foundational yet challenging topic in mathematics, requiring students to integrate visual, logical, and notational skills. While technology has enhanced learning in other mathematical domains, it has not gained widespread use for geometric proof. To investigate this gap, we interviewed 18 geometry teachers to learn how technology fits into their proof curriculum. These interviews revealed common pedagogical tactics as well as pain points with existing tools for proof. We synthesized these findings into technical requests, which we use to guide our review of 34 commercial and research tools. Our findings reveal a critical mismatch: while teachers emphasize keeping the diagram and proof in sync, existing software mostly overlooks this visual-deductive integration. As a result, teachers value certain digital tools for initial planning and exploration but revert to pen and paper for formal proof. We translate the identified gaps from our tool review into four technical and human-centered design guidelines for educational proof tools, aligning future development with teacher needs at scale.",
+    keywords: [
+      "Geometry",
+      "Proof",
+      "K-12 Education",
+      "Interview",
+      "Tool Review",
+      "Math Education",
+      "Education Technology",
+    ],
   },
   {
-    id: "/cogsci-ender",
-    title:
-      "Augmented Proof: Examining Structures to Support Geometric Proof Comprehension",
+    id: "/vlhcc-ender",
+    title: "Ender: Visual Scaffolding for Geometric Proof Comprehension",
     authors: [
       "Hwei-Shin Harriman",
       "Yuchen Jin",
-      "Peter Cheng",
       "Dominik Moritz",
       "Joshua Sunshine",
     ],
-    venue: "CogSci'25, Poster",
+    venue: "VL/HCC'26",
     links: {
-      pdf: "/pubs/cogsci25.pdf",
+      pdf: "/pubs/vlhcc-26.pdf",
     },
     abstract:
-      "To understand even a modest geometric proof, students must process an interwoven combination of symbolic, diagrammatic, geometric, and logical information. This amount of information density presents a daunting management task that students are known to perform poorly on. To address this challenge, we propose a two-column proof interface that structures the information management task according to diagram configuration schemas. We evaluated our design by comparing secondary school students' performance on proof comprehension tasks with DCS augmentation to using a typical two-column proof. Students using the DCS-augmented interface demonstrated improved overall reasoning and accuracy in geometric proof tasks compared to the traditional two-column format. They were also significantly better at identifying and correcting mistakes in proofs. These results suggest that managing complex information by integrating it in a coherent schema\u2014like DCS\u2014can support student understanding of proof.",
-    keywords: [
-      "Geometric Proof",
-      "Interactive Diagrams",
-      "Human-centered computing",
-    ],
+      "Geometric proof is a foundational but notoriously difficult topic in secondary mathematics, primarily due to the high cognitive load required to integrate visual diagrams with logical text. As proofs evolve, tracking the initial givens and an expanding set of derived truths can easily overwhelm working memory. While established scaffolding techniques are often visual and diagram-based, current digital learning environments mostly rely on static, text-heavy interfaces that force students to manage these complex mental models on their own. This paper introduces Ender, an interactive rendering system designed to visualize the logical status of two-column proofs. Ender’s design is grounded in four literature-derived requirements: (1) diagram annotation, (2) structural tracing, (3) support for partial or incorrect work, and (4) synchronization between the diagram and text. To evaluate the system, we conducted a between-subjects, think-aloud experiment with 12 secondary school students in the United States, comparing Ender against a traditional digital proof interface. Our results indicate that students using Ender performed significantly better on proof comprehension tasks—specifically in identifying and correcting logical errors. These findings suggest that dynamic visual scaffolding may ease the working memory burden of digital interfaces, offering a promising building block for future AI-based proof tutoring systems.",
+    keywords: ["Geometry", "Proof", "Visualization", "Interactive interfaces"],
     teaser: {
-      img: "/pubs/cogsci25-teaser.png",
+      img: "/pubs/vlhcc-26.pdf",
       caption:
-        "Top: Screenshot of the DCS augmented interface displaying the fourth step of a proof. Students use the up and down arrow keys to navigate through the proof and see changes in state, definitions, and dependencies. This proof mistakenly applies the Side-Angle-Side (SAS) Triangle Congruence theorem without enough prerequisite information. The red bolding indicates that the interior angles necessary for SAS are not known to be congruent by step 4. Adding a reflexive step BD = BD would correct this proof. Bottom: Screenshot of the control interface of the same incorrect proof, providing all the information necessary to comprehend the proof simultaneously. It is akin to the proof format that secondary school students practice.",
+        "Top to bottom: The Ender interface displaying the 4th step of an example proof. Students navigate by clicking or using the Up/Down arrow keys. (1) Premises for the proof. (2) Interactive construction, updates at every step. (3) Indicator that proof has not been fully revealed. (4) Blue highlights the new statement. (5) Black highlights prerequisites for the current reason. (6) Red highlights inconsistencies between the current step's prerequisites and proof state. (7) Points to prerequisites' location(s) in proof, '?' means one is missing. (8) Text definition of current reason.",
     },
     thumb: "/thumbnails/cogsci-ender.png",
   },
+  // {
+  //   id: "/cogsci-ender",
+  //   title:
+  //     "Augmented Proof: Examining Structures to Support Geometric Proof Comprehension",
+  //   authors: [
+  //     "Hwei-Shin Harriman",
+  //     "Yuchen Jin",
+  //     "Peter Cheng",
+  //     "Dominik Moritz",
+  //     "Joshua Sunshine",
+  //   ],
+  //   venue: "CogSci'25, Poster",
+  //   links: {
+  //     pdf: "/pubs/cogsci25.pdf",
+  //   },
+  //   abstract:
+  //     "To understand even a modest geometric proof, students must process an interwoven combination of symbolic, diagrammatic, geometric, and logical information. This amount of information density presents a daunting management task that students are known to perform poorly on. To address this challenge, we propose a two-column proof interface that structures the information management task according to diagram configuration schemas. We evaluated our design by comparing secondary school students' performance on proof comprehension tasks with DCS augmentation to using a typical two-column proof. Students using the DCS-augmented interface demonstrated improved overall reasoning and accuracy in geometric proof tasks compared to the traditional two-column format. They were also significantly better at identifying and correcting mistakes in proofs. These results suggest that managing complex information by integrating it in a coherent schema\u2014like DCS\u2014can support student understanding of proof.",
+  //   keywords: [
+  //     "Geometric Proof",
+  //     "Interactive Diagrams",
+  //     "Human-centered computing",
+  //   ],
+  //   teaser: {
+  //     img: "/pubs/cogsci25-teaser.png",
+  //     caption:
+  //       "Top: Screenshot of the DCS augmented interface displaying the fourth step of a proof. Students use the up and down arrow keys to navigate through the proof and see changes in state, definitions, and dependencies. This proof mistakenly applies the Side-Angle-Side (SAS) Triangle Congruence theorem without enough prerequisite information. The red bolding indicates that the interior angles necessary for SAS are not known to be congruent by step 4. Adding a reflexive step BD = BD would correct this proof. Bottom: Screenshot of the control interface of the same incorrect proof, providing all the information necessary to comprehend the proof simultaneously. It is akin to the proof format that secondary school students practice.",
+  //   },
+  //   thumb: "/thumbnails/cogsci-ender.png",
+  // },
   {
     id: "/diagrams-penrose",
     title: "Codifying Visual Representations",
