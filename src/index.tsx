@@ -9,7 +9,6 @@ import cv from "./assets/cv.md";
 import { ProjectPage } from "./components/ProjectPage";
 import { PublicationPage } from "./components/PublicationPage";
 import "./index.css";
-import reportWebVitals from "./reportWebVitals";
 import { MarkdownCV } from "./routes/CV";
 import { Home } from "./routes/Home";
 import { Illustrations } from "./routes/Illustrations";
@@ -53,7 +52,3 @@ root.render(
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
